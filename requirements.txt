@@ -7,3 +7,4 @@ pydantic-settings==2.3.4
 python-dotenv==1.0.1
 python-jose[cryptography]
 passlib[bcrypt]
+authlib==1.3.1
